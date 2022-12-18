@@ -76,3 +76,7 @@ The main limitations that come with this project are:
 
 The project was completed as part of the Data Science and Machine Learning II course taught at the École Polytechnique Fédérale de Lausanne by Professor Michalis Vlachos and Dr. Boris Thurm. The project was carried out by Éric Bolliger, Lucas Spehler, and Rémy Kurum.
 Lucas and Éric performed the data cleaning, while Éric performed the sentiment analysis. Rémy and Lucas conducted the predictor analysis, and Rémy and Éric created the interactive tool. Rémy also composed this README file.
+
+# GitHub
+
+The code, dataset, and readme files for this project are available for download on [GitHub](https://github.com/lucasspehler/dsml_greenbonds).
